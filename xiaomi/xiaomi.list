@@ -1,4 +1,4 @@
-# NAME: XiaoMi
+# NAME: Mi_jia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2024-02-25 16:03:05
@@ -66,6 +66,8 @@ HOST-SUFFIX,micode.net,XiaoMi
 HOST-SUFFIX,mifile.cn,XiaoMi
 HOST-SUFFIX,mij.cc,XiaoMi
 HOST-SUFFIX,mikge.com,XiaoMi
+HOST-SUFFIX,tracking.intl.miui.com,XiaoMi
+HOST-SUFFIX,app-measurement.com,XiaoMi
 HOST-SUFFIX,miliao.com,XiaoMi
 HOST-SUFFIX,milliant.com,XiaoMi
 HOST-SUFFIX,mioffice.cn,XiaoMi
